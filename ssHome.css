@@ -1,11 +1,12 @@
 h1 {
     color: transparent;
-    text-shadow: 0 0 5px rgba(0,0,0,0.5);
     font-family: "Gloucester MT Extra Condensed";
     font-weight: bolder;
     font-size: 75px;
-    border: 200px solid red;
+    /*Border 1*/
+    border: 100px solid red;
     text-shadow: #969696 1px 3px 0, #aba8a8 1px 13px 5px;
+    /*Padding 1*/
     padding-left: 200px;
 
 }
@@ -47,17 +48,17 @@ h1 {
 }
 
 h2{
-    /*Float instance 1*/
+    /*Float 1*/
     float: right;
-    transform: rotate(90deg);
-    /*Border Property Instance 2*/
-    border: 20px dotted blue;
+    transform: rotate(120deg);
+    /*Border 2*/
+    border: 20px dotted red;
     text-shadow: 2px 2px 0 #bcbcbc, 4px 4px 0 #9c9c9c;
     font-family: Damascus;
     font-size: 100px;
     color: fuchsia;
     text-shadow: #ccc 0 1px 0, #c9c9c9 0 2px 0, #bbb 0 3px 0, #b9b9b9 0 4px 0, #aaa 0 5px 0,rgba(0,0,0,.1) 0 6px 1px, rgba(0,0,0,.1) 0 0 5px, rgba(0,0,0,.3) 0 1px 3px, rgba(0,0,0,.15) 0 3px 5px, rgba(0,0,0,.2) 0 5px 10px, rgba(0,0,0,.2) 0 10px 10px, rgba(0,0,0,.1) 0 20px 20px;
-    /*Padding Instance 2*/
+    /*Padding 2*/
     padding-right: 200px;
 
 }
@@ -65,39 +66,33 @@ h2{
 h3{
     font-family: Consolas;
     font-size: 75px;
-    /*Absolute Position 1*/
+    /*Absolute 1*/
     position: absolute;
     float: right;
 }
-/*#ECEDDC*/
 body{
     font-weight: bold;
-    background-image: url("src/Images/swirl.gif");
     background-size: 100px 100px;
-    background-color: #ec17a5;
+    background-color: purple;
 
     left: 30px;
     border: aquamarine;
-    /*Margin Property Instance 1*/
+    /*Margin 1*/
     margin-top: 100px;
     margin-right: -100px;
     margin-left: 50px;
 
 }
-/*Separation of Images with effects creates invertion of color effect on entire home page when scrolling*/
 img:hover {
-    /*Inverts colors when scrolling over (hover)*/
-    /*Zooms in on image when scrolling over (hover)*/
     transform: scaleX(20);
     filter: invert(.8);
-    /*Inline Instance 1*/
+    /*Inline 1*/
     display: inline-block;
-    /*Relative Positioning 1*/
+    /*Relative 1*/
     position: relative;
 }
-/*Stylises Links to other pages*/
 p{
-    /*Block Instance 1*/
+    /*Block 1*/
     display: block;
     font-family: "Diwan Kufi";
     font-size: 50px;
