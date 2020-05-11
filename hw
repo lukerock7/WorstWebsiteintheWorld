@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+The website of <a href="https://www.apple.com/">Apple</a> has a very good representation of Contrast.
+<ul>
+    <li>The products on the homepage use contrast to focus on the futures of their products.</li>
+    <li>The products with similar colors are related to each other.</li>
+    <li>The colors used on the page are opposite of each other (ex. black vs white).</li>
+</ul>
+
+The website of <a href="https://www.bestbuy.com/">Best Buy</a> has a very good representation of Repetition.
+<ul>
+    <li>The shopping list design of Best Buy uses repetition to create consistency in their shopping experience.</li>
+    <li>The website looks more appealing to the eye because of repetition.</li>
+    <li>The user becomes used to Best Buy's design and discourages them to use another competitor.</li>
+</ul>
+
+The website of <a href="https://www.bhs-ib-biology.com/">BHS IB Biology</a> has a very good representation of Alignment.
+<ol>
+    <li>The forum system uses alignment to make the user experience less cluttered and more spaced out.</li>
+    <li>The most important features are aligned in the middle while the less essential features are on the side.</li>
+    <li>The alignment choices appeal to the website's theme of blue and white, making the website experience appeal to the eye.</li>
+</ol>
+The website of <a href="https://www.imgur.com/">Imgur</a> has a very good representation of Proximity.
+<dl>
+    <dt>Images</dt>
+    <dd>The images are put in order of relevancy which follows the idea of Proximity.</dd>
+    <dt>Appeal</dt>
+    <dd>The use of proximity allows for a greater website appeal.</dd>
+</dl>
+</body>
+</html>
