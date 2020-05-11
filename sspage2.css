@@ -1,0 +1,55 @@
+img:hover {
+    height: auto;
+    width: 50%;
+    /*obnoxious zoom when hovering effect */
+    transform: scaleX(-10);
+    /*Block 2*/
+    display: block;
+}
+h3{
+    font-family: Helvetica;
+    font-size: 25px;
+    /*Absolute 2*/
+    position: absolute;
+    left: 50px;
+}
+h2{
+    /*Float 2*/
+    float: right;
+    font-family: "Droid Sans";
+    font-size: 75px;
+}
+h1{
+    float: left;
+    font-family: "cursive";
+    font-size: 80px;
+}
+.video1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+    width: 50%;
+    padding: 30px;
+    /*Relative 4*/
+    position: relative;
+}
+.video2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    float: right;
+    width: 50%;
+    padding: 5px;
+}
+body {    left: 30px;
+    /*Border 3*/
+    border: 75px solid black;
+    /*Margin 2*/
+    margin-right: 50px;
+    margin-top: 25px;
+    /*Padding 3*/
+    padding-right: 150px;
+    background-color: coral;
+}
+
